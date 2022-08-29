@@ -215,5 +215,5 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 Week # | Dates            | Topic                                                 | Activities/Assignments                                                                                                                                                                                                                                                                                                               | Reading
 ------ | ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------
-1      | Aug. 29-Sep.2       | Introduction to Software Engineering.  | Community Guidelines. [Activity 1](). | Read the syllabus.
+1      | Aug. 29-Sep.2       | Introduction to | Community Guidelines. [Activity 1](). | Read the syllabus.
 2      | Sep. 5 - Sep. 9    
