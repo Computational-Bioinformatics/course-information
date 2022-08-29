@@ -22,7 +22,7 @@ This repository contains information about Bioinformatics, including the course 
 
 Dr. Oliver Bonham-Carter  (Note: said and written as __Bonham-Carter__, not _Carter_)
 
-Office Location: Alden Hall 110
+Office Location: Alden Hall 105
 
 Email: obonhamcarter@allegheny.edu
 
