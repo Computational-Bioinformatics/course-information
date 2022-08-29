@@ -115,7 +115,7 @@ The grade that a student receives in this class will be based on the following c
 
 #### Grading Scale
 
-|Grading scale|            |             |            |             |            |
+|Letter| Range |Letter |Range |Letter|Range|
 |:------------|:-----------|:------------|:-----------|:------------|:-----------|
 |A            | 96 - 100   |A-           | 90 - 95.9  |
 |B+           | 87 - 89.9  |B            | 83 - 86.9  |B-           | 80 - 82.9  |
