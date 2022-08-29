@@ -84,6 +84,7 @@ Distribution Requirements: QR and SP
  + Throughout the semester students also will enhance their ability to write and present ideas about bioinformatics in a clear and compelling fashion. Students will gain practical experience in the design, implementation, and analysis of bioinformatics research during laboratory sessions and a final project. Finally, students will develop a richer understanding of the fascinating connections between biological systems, analysis and automation.
 
 ## Textbooks
+
  + Exploring Bioinformatics: A Project-based Approach, second edition, by Caroline St. Clair and Jonathan E. Visick.
 
  + Think Python, first edition, by Allen B. Downey.
@@ -94,10 +95,9 @@ Distribution Requirements: QR and SP
 
   + _BUGS in Writing: A Guide to Debugging Your Prose_. Lyn Dupre.
 
-  + _Writing for Computer Science_.  Justin Zobel.
+  + _Writing for Computer Science_. Justin Zobel.
   + _On Being a Scientist: A Guide to Responsible Conduct in Research_ (Third Edition)}. Committee on Science, Engineering, and Public Policy, National Academy of Sciences, National Academy of Engineering, and Institute of Medicine.
   + Along with reading the required books, you will be asked to study many additional articles from a wide variety of conference proceedings, journals, and the popular press.
-
 
 ## Policies
 
@@ -105,19 +105,15 @@ Distribution Requirements: QR and SP
 
 The grade that a student receives in this class will be based on the following categories. All percentages are approximate and, if the need to do so presents itself, it is possible for the assigned percentages to change during the academic semester.
 
-
 |Category              | Percentage | Assessment metric
 |:-------------------- | :--------- | :-----------------
-|Class Activities      | 10%        | check mark grade
+|Class Participation   | 10%        | check mark grade
 |Exams                 | 20%        | check mark grade
 |Lab Assignments       | 40%        | letter grade
 |Final Project         | 30%        | letter grade
 |Total                 | 100%       |
 
-
-
 #### Grading Scale
-
 
 |Grading scale|            |             |            |             |            |
 |:------------|:-----------|:------------|:-----------|:------------|:-----------|
@@ -128,7 +124,7 @@ The grade that a student receives in this class will be based on the following c
 
 ### Definitions of Grading Categories
 
- + __Class Activities__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.% and in the course's Slack channels.
+ + __Class Participation__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.% and in the course's Slack channels.
 
  + __Exams__: The exams will cover all of the material in their associated module(s). The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, all students will be expected to take these exams on the scheduled date and complete the exams in the stated period of time.
 
@@ -136,13 +132,11 @@ The grade that a student receives in this class will be based on the following c
 
  + __Final Project__: This project will present you with an opportunity to design and implement a correct and carefully evaluated bioinformatics solution for a specific problem. Completion of the final project will require you to apply all of the knowledge and skills that you have acquired during the course of the semester to solve a bioinformatics problem. The details for the final project will be given approximately two months before the project due date (during finals week).
 
-### Assignment Submission}
+### Assignment Submission
 
 We will be using GitHub Classroom to collect all assignments. It is expected that you are able to effectively use `git` to submit your work. If you require help, please see your peers, the Technology Leaders, or your instructor.
 
 All assignments will have a stated due date. The electronic version of the class assignments are to be turned in at the beginning of the lab session on that due date. Submissions after the beginning of class are counted as being late.  Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. All late assignments must be submitted at the beginning of the session that is scheduled one week after the due date.
-
-
 
 ### Extensions
 Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline. If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a __valid reason__ for your extension. This request must come before the due date of the lab and not on the due date. Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
@@ -150,21 +144,12 @@ Unless special arrangements are made with the course instructor, no assignments 
 The submission of homework comprises the Honor Code pledge of the student(s) completing the work. For any assignment completed in a group, students must also turn in a one-page reflection that describes each group member's contribution to the submitted deliverables.  
 
 
-### Attendance
-
-Classes will be attended by in-person and online students. Each class will be recorded to produce videos for online students and to enhance learning for the class.
-
-
-If you will not be able to attend your session, then please email the course instructor at least one week in advance to describe your situation.  Students who miss more than five unexcused classes, laboratory sessions, or group project meetings will have their final grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
-
-The laboratory sessions are in-person. It is the student's responsibility be present for each meeting to ensure a comprehension of materials.
-
-### A Note on extenuating circumstances
+### A note on extenuating circumstances
 
 If you should find yourself in difficult circumstances that significantly interfere with your ability to prepare for this class and to complete assignments, please inform me immediately so that we can work something out together! Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus. In such a situation, you may also find it helpful to contact one of the available resources on campus:
 
 
- + [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
+ +  [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
  +  [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
  +  [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
  +  [Student Life](https://sites.allegheny.edu/studentlife/)
@@ -184,7 +169,6 @@ During the semester, you will be told which software to install on your machine 
  + [Git and GiHub](https://github.com/): (a software development software system
  + [VSCode](https://code.visualstudio.com/download): (an editor)
  + [Docker](https://www.docker.com): a software container system
-
   + [Installing Docker](https://docs.docker.com/get-docker/)
   + [Basic tutorial from Docker](https://www.docker.com/101-tutorial)
   + [Play with Docker](https://labs.play-with-docker.com/)
@@ -199,12 +183,11 @@ The Americans with Disabilities Act (ADA) is a federal anti-discrimination statu
 
 The Academic Honor Program that governs the entire academic program at Allegheny College is described in the Allegheny Course Catalogue.  The Honor Program applies to all work that is submitted for academic credit or to meet non-credit requirements for graduation at Allegheny College.  This includes all work assigned for this class (e.g., examinations, laboratory assignments, and the final project).  All students who have enrolled in the College will work under the Honor Program.  Each student who has matriculated at the College has acknowledged the following pledge:
 
-
 _I hereby recognize and pledge to fulfill my responsibilities, as defined in the Honor Code, and to maintain the integrity of both myself and the College community as a whole._
-
 
 It is recognized that an important part of the learning process in any course, and particularly one in computer science, derives from thoughtful discussions with teachers and fellow students.  Such dialogue is encouraged. However, it is necessary to distinguish carefully between the student who discusses the principles underlying a problem with others and the student who produces assignments that are identical to, or merely variations on, someone else's work.  While it is acceptable for students in this class to discuss their programs, technical diagrams, proposals, paper reviews, presentations, and other items with their classmates or other individuals, deliverables that are nearly identical to the work of others will be taken as evidence of violating the Honor Code.
 
+More information about the code may be found at the [Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/academic-honor-program/)
 
 ### Welcome to Computer Science Research!
 
@@ -216,9 +199,35 @@ Types of computer hardware and software are everywhere! Conducting research in c
 
 ### Schedule
 
-Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
+Below is a tentative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
 
-Week # | Dates            | Topic                                                 | Activities/Assignments                                                                                                                                                                                                                                                                                                               | Reading
------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------
-1      | Aug. 29-Sep.2       | Introduction to | Community Guidelines. [Activity 1](). | Read the syllabus.
-2      | Sep. 5 - Sep. 9    
+Week # | Dates   | Topic | Reading|
+---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------|
+1 | Aug. 29-Sep.2   | Introduction to the course | Read the syllabus.|
+1 | | No lab| N/A|
+2 | 5 Sept - 9 Sept   | Careers, DNA Basics, Central Dogma of Biology, Replication of DNA and other basics | Chap 1|
+2 | 5 Sept            | Lab: Software Tools| Hand out|
+3 | 12 Sept - 16 Sept |                     |        |
+3 | 12 Sept           | Lab: | Hand out|
+4 | 19 Sept - 23 Sept |                     |        |
+4 | 19 Sept           | Lab: | Hand out|
+5 | 26 Sept - 30 Sept |                     |        |
+5 | 26 Sept           | Lab: | Hand out|
+6 | 3 Oct - 7 Oct     |                     |        |
+6 | 12 Oct            | Lab: | Hand out|
+7 | 10 Oct - 14 Oct   | Fall Break; No Class |       |
+7 | | No lab| N/A|
+8 | 17 Oct - 21 Oct |                     |        |
+8 | 17 Oct           | Lab: | Hand out|
+9 | 24 Oct - 28 Oct |                     |        |
+9 | 24 Oct            | Lab: | Hand out|
+10 | 31 Oct - 4 Nov   |                     |        |
+10 | 31 Oct           | Lab: | Hand out|
+11 | 7 Nov - 11 Nov  |                     |        |
+11 | 7 Nov           | Lab: | Hand out|
+12 | 14 Nov - 17 Nov |                     |        |
+12 | 14 Nov          | Lab: | Hand out|
+13 | 21 Nov - 25 Nov |                     |        |
+13 | 21 Nov          | Lab: | Hand out|
+14 | 28 Nov - 2 Dec |                     |        |
+14 | 28 Nov          | Lab: | Hand out|
