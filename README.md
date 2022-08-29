@@ -1,4 +1,4 @@
-# Bioinformtica (CMPSC 300) Course Syllabus
+# Bioinformtics (CMPSC 300) Course Syllabus
 
 This repository contains information about Bioinformatics, including the course objectives, policies and the schedule. Please check this repository regularly for updates to the policies and the schedule.
 
@@ -10,6 +10,7 @@ This repository contains information about Bioinformatics, including the course 
 - [Discord](#Discord)
 - [Course Calendar](#Calendar)
 - [`classDocs/`](#Classdocs)
+- [Deliverable](#Deliverable)
 - [Course Description](#Description)
 - [Textbooks](#Textbooks)
 - [Course Policies](#Policies)
@@ -52,6 +53,10 @@ If you are already on the department's Discord server, then you will be given ac
 ## `classDocs/`
 All materials given out in class will be accessible using the `ClassDocs/` repository. Note: The HTTP link works in absence of SSH keys.
 Main site on GitHub: [ClassDocs/](https://github.com/CMPSC-300-Allegheny-College-Fall-2022/classDocs)
+
+## Course Deliverable
+ + Due: 19th December 2022, 9:00am
+ + Course code for final exam: G
 
 
 ## Course Description
