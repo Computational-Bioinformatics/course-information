@@ -88,8 +88,8 @@ Distribution Requirements: QR and SP
  + Exploring Bioinformatics: A Project-based Approach, second edition, by Caroline St. Clair and Jonathan E. Visick.
 
  + Think Python, first edition, by Allen B. Downey.
-  + [Textbook](http://greenteapress.com/thinkpython/thinkpython.pdf)
-  + [Publisher](http://greenteapress.com/wp/think-python/)
+  + [Think Python Textbook](http://greenteapress.com/thinkpython/thinkpython.pdf)
+  + [Green Tea Press Publisher](http://greenteapress.com/wp/think-python/)
 
  + __Suggested Reading__: The below reading list is strongly recommended to improve students build technical writing skills and to gain a firm understanding in how to conduct responsible research in computer science.
 
