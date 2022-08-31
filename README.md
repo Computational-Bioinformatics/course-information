@@ -108,7 +108,7 @@ The grade that a student receives in this class will be based on the following c
 |Category              | Percentage | Assessment metric
 |:-------------------- | :--------- | :-----------------
 |Class Participation   | 10%        | check mark grade
-|Exams                 | 20%        | check mark grade
+|Exams                 | 20%        | letter grade
 |Lab Assignments       | 40%        | letter grade
 |Final Project         | 30%        | letter grade
 |Total                 | 100%       |
