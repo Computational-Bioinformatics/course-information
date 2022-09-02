@@ -203,9 +203,9 @@ Below is a tentative schedule of covered topics and associated activities. The s
 
 Week # | Dates   | Topic | Reading|
 ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------|
-1 | Aug. 29-Sep.2   | Introduction to the course | Read the syllabus.|
+1 | Aug. 29-Sep.2   | Introduction to the course, careers | Read the syllabus|
 1 | | No lab| N/A|
-2 | 5 Sept - 9 Sept   | Careers, DNA Basics, Central Dogma of Biology, Replication of DNA and other basics | Chap 1|
+2 | 5 Sept - 9 Sept   | DNA Basics, Central Dogma of Biology, Replication of DNA and other basics | Chap 1|
 2 | 5 Sept            | Lab: Software Tools| Hand out|
 3 | 12 Sept - 16 Sept |                     |        |
 3 | 12 Sept           | Lab: | Hand out|
