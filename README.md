@@ -160,6 +160,9 @@ Various digital channels will be used in this course for communication, includin
 
 Additionally, the course website will be used to store the syllabus, course schedule and information about the `classDocs/` repository using the GitHub.  Your grades will be communicated to you by a Gradebook GitHub repository.
 
+### Gradebook Repository
++ [https://classroom.github.com/a/PDnOsq62](https://classroom.github.com/a/PDnOsq62)
+
 ### Bring your own computer to class
 
 The classrooms in the Department of Computer Science no longer provide machines for student use. You are to bring your own wifi-ready device to class to be able to follow along with course material. If the class is meeting online using Zoom, then please be sure that you machine is configured correctly to use these services to connect you to the class. As it is your responsibility to maintain your machine, please perform online research to determine how to configure your machine accordingly, or to install any necessary software to enable online meetings.
