@@ -209,7 +209,7 @@ Week # | Dates   | Topic | Reading|
 1 | Aug. 29-Sep.2   | Introduction to the course, careers | Read the syllabus|
 1 | | No lab| N/A|
 2 | 5 Sept - 9 Sept   | DNA Basics, Central Dogma of Biology, Replication of DNA and other basics | Chap 1|
-2 | 5 Sept            | Lab: [Software Tools](https://github.com/CMPSC-300-Allegheny-College-Fall-2022/01_lab)| See GitHub repository|
+2 | 5 Sept            | Lab: [Software Tools](https://classroom.github.com/a/g3PeyyBY)| See GitHub repository|
 3 | 12 Sept - 16 Sept |                     |        |
 3 | 12 Sept           | Lab: | Hand out|
 4 | 19 Sept - 23 Sept |                     |        |
