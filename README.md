@@ -210,7 +210,7 @@ Week # | Dates   | Topic | Reading|
 1 | | No lab| N/A|
 2 | 5 Sept - 9 Sept   | DNA Basics, Central Dogma of Biology, Replication of DNA and other basics | Chap 1, [Activity 01](https://forms.gle/NY4yKq3XPsiF677h8)|
 2 | 5 Sept            | Lab: [Software Tools](https://classroom.github.com/a/g3PeyyBY)| See GitHub repository|
-3 | 12 Sept - 16 Sept | BioPython Basics                |        |
+3 | 12 Sept - 16 Sept | BioPython Basics                | [Activity 2](https://classroom.github.com/a/5II53q3k)       |
 3 | 12 Sept           | Lab: [BioPython and Silent Mutations](https://classroom.github.com/a/tqoDBUWF)| Hand out|
 4 | 19 Sept - 23 Sept |                     |        |
 4 | 19 Sept           | Lab: | Hand out|
