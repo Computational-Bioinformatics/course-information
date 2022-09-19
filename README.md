@@ -213,7 +213,7 @@ Week # | Dates   | Topic | Reading|
 3 | 12 Sept - 16 Sept | BioPython Basics, [Activity 02](https://classroom.github.com/a/5II53q3k) | Chap 1 |
 3 | 12 Sept           | Lab: [BioPython and Silent Mutations](https://classroom.github.com/a/tqoDBUWF)| Hand out|
 4 | 19 Sept - 23 Sept | Reading Frames, Mutations    | Chap 2       |
-4 | 19 Sept           | Lab: | Hand out|
+4 | 19 Sept           | Lab: [Tool Intro And Presentation](https://classroom.github.com/a/VpI9VO2f) | Hand out|
 5 | 26 Sept - 30 Sept |                     |        |
 5 | 26 Sept           | Lab: | Hand out|
 6 | 3 Oct - 7 Oct     |                     |        |
