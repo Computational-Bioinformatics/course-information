@@ -215,7 +215,7 @@ Week # | Dates   | Topic | Reading|
 4 | 19 Sept - 23 Sept | Reading Frames, Mutations, Begin Sequence Alignment, [Activity 03](https://classroom.github.com/a/aplPW0YR) | Chap 2, 3       |
 4 | 19 Sept           | Lab: [Tool Intro And Presentation](https://classroom.github.com/a/VpI9VO2f) | Hand out|
 5 | 26 Sept - 30 Sept |  Sequence Alignment, Needleman-Wunsch algorithm (Global Alignment) | Chap 3  |
-5 | 26 Sept           | Lab: | Hand out|
+5 | 26 Sept           | Lab: No new assignment | Hand out|
 6 | 3 Oct - 7 Oct     | Biopython and Sequence Alignment  | Chap 3, Chap 4, HandOut       |
 6 | 12 Oct            | Lab: | Hand out|
 7 | 10 Oct - 14 Oct   | Fall Break; No Class |       |
