@@ -71,7 +71,7 @@ Distribution Requirements: QR and SP
 ### Course Objectives
 
  + Students successfully completing this class will have developed:
- + A “big-picture” view of bioinformatics.
+ + A "big-picture" view of bioinformatics.
  + An understanding of the objectives and limitations of bioinformatics.
  + An understanding of the biological foundations of bioinformatics (genes and genomes, gene expression, etc.).
 
@@ -216,7 +216,7 @@ Week # | Dates   | Topic | Reading|
 4 | 19 Sept           | Lab: [Tool Intro And Presentation](https://classroom.github.com/a/VpI9VO2f) | Hand out|
 5 | 26 Sept - 30 Sept |  Sequence Alignment, Needleman-Wunsch algorithm (Global Alignment) | Chap 3  |
 5 | 26 Sept           | Lab: | Hand out|
-6 | 3 Oct - 7 Oct     |                     |        |
+6 | 3 Oct - 7 Oct     | Biopython and Sequence Alignment  | Chap 3, Chap 4, HandOut       |
 6 | 12 Oct            | Lab: | Hand out|
 7 | 10 Oct - 14 Oct   | Fall Break; No Class |       |
 7 | | No lab| N/A|
