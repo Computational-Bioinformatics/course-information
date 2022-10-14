@@ -216,7 +216,7 @@ Week # | Dates   | Topic | Reading|
 4 | 19 Sept           | Lab: [Tool Intro And Presentation](https://classroom.github.com/a/VpI9VO2f) | Hand out|
 5 | 26 Sept - 30 Sept |  Sequence Alignment, Needleman-Wunsch algorithm (Global Alignment) | Chap 3  |
 5 | 26 Sept           | Lab: No new assignment | Hand out|
-6 | 3 Oct - 7 Oct     | Biopython and Sequence Alignment  | Chap 3, Chap 4, HandOut       |
+6 | 3 Oct - 7 Oct     | Biopython and Sequence Alignment, [Activity 04](https://classroom.github.com/a/SV1VA3A9)  | Chap 3, Chap 4, HandOut       |
 6 | 3 Oct            | Lab: [seq Analysis](https://classroom.github.com/a/boVZZyBA)  | Hand out|
 7 | 10 Oct - 14 Oct   | Fall Break; No Class |       |
 7 | | No lab| N/A|
