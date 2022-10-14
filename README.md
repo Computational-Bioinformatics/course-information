@@ -220,6 +220,7 @@ Week # | Dates   | Topic | Reading|
 6 | 3 Oct            | Lab: [seq Analysis](https://classroom.github.com/a/boVZZyBA)  | Hand out|
 7 | 10 Oct - 14 Oct   | Fall Break; No Class |       |
 7 | | No lab| N/A|
+7 | 14 Oct   | [Activity 05 BuildADatabase](https://classroom.github.com/a/pqKAOxgT) |       |
 8 | 17 Oct - 21 Oct |                     |        |
 8 | 17 Oct           | Lab: | Hand out|
 9 | 24 Oct - 28 Oct |                     |        |
