@@ -32,7 +32,7 @@ local.properties
 *.log
 *.lot
 *.out
-*.pdf
+
 *.ps
 *.tex~
 *.toc
