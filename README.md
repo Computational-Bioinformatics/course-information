@@ -222,7 +222,7 @@ Week # | Dates   | Topic | Reading|
 7 | | No lab| N/A|
 7 | 14 Oct   | [Activity 05 BuildADatabase](https://classroom.github.com/a/pqKAOxgT) |       |
 8 | 17 Oct - 21 Oct |                     |        |
-8 | 17 Oct           | Lab: | Hand out|
+8 | 17 Oct           | Lab: [article and tool](https://classroom.github.com/a/19_Uzv0E) | Hand out|
 9 | 24 Oct - 28 Oct |                     |        |
 9 | 24 Oct            | Lab: | Hand out|
 10 | 31 Oct - 4 Nov   |                     |        |
