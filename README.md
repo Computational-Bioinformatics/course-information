@@ -221,7 +221,7 @@ Week # | Dates   | Topic | Reading|
 7 | 10 Oct - 14 Oct   | Fall Break; No Class |       |
 7 | | No lab| N/A|
 7 | 14 Oct   | [Activity 05 BuildADatabase](https://classroom.github.com/a/pqKAOxgT) |       |
-8 | 17 Oct - 21 Oct |                     |        |
+8 | 17 Oct - 21 Oct |    Blast and protein blast                 |     Chapters 4 and 5   |
 8 | 17 Oct           | Lab: [article and tool](https://classroom.github.com/a/19_Uzv0E) | Hand out|
 9 | 24 Oct - 28 Oct |                     |        |
 9 | 24 Oct            | Lab: | Hand out|
