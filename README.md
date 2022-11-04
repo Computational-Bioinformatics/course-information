@@ -225,7 +225,7 @@ Week # | Dates   | Topic | Reading|
 8 | 17 Oct           | Lab: [article and tool](https://classroom.github.com/a/19_Uzv0E) | Hand out|
 9 | 24 Oct - 28 Oct | SubMatrices: Pam and BLOSUM. Test Week: [Video Activity](https://forms.gle/z7B3FFSZDfPcC1cXA)                     |        |
 9 | 24 Oct            | Lab: See last week's lab| |
-10 | 31 Oct - 4 Nov   |  Gene Assembly                   |        |
+10 | 31 Oct - 4 Nov   |  Gene Assembly [Activity 7 ](https://classroom.github.com/a/KHpM-Nhi)  | Chapter 8 and 9 |
 10 | 31 Oct           | Lab: [Ethics in Bioinformatics Research](https://classroom.github.com/a/VNZ2geci)| Hand out|
 11 | 7 Nov - 11 Nov  |                     |        |
 11 | 7 Nov           | Lab: | Hand out|
