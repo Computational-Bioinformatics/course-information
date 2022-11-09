@@ -1,0 +1,58 @@
+LOCUS       KX932045                 714 bp    mRNA    linear   VRL 23-JAN-2017
+DEFINITION  Orchid fleck dichorhavirus isolate U1 phosphoprotein mRNA, complete
+            cds.
+ACCESSION   KX932045
+VERSION     KX932045.1
+KEYWORDS    .
+SOURCE      Orchid fleck dichorhavirus
+  ORGANISM  Orchid fleck dichorhavirus
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Haploviricotina; Monjiviricetes; Mononegavirales; Rhabdoviridae;
+            Dichorhavirus.
+REFERENCE   1  (bases 1 to 714)
+  AUTHORS   Bratsch,S.
+  TITLE     Development of ELISA to detect Orchid Fleck Virus using antibodies
+            produced against Escherichia coli expressed recombinant proteins
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 714)
+  AUTHORS   Bratsch,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2016) Plant Pathology, University of Minnesota-St
+            Paul, 1991 Upper Buford Circle; 495 Borlaug Hall, St Paul, MN
+            55108, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..714
+                     /organism="Orchid fleck dichorhavirus"
+                     /mol_type="mRNA"
+                     /isolate="U1"
+                     /host="Phalaenopsis hybrid orchid"
+                     /db_xref="taxon:152177"
+                     /country="USA"
+                     /collection_date="2014"
+     CDS             1..714
+                     /codon_start=1
+                     /product="phosphoprotein"
+                     /protein_id="APW29211.1"
+                     /translation="MFTTKVNMYPEVPSSSQVSDDIDNDTHIDEVAAFVRKWSAAGLS
+                     PPITLAKNLRAWISSNTSPGSPLVLDDRMLSLTTMIWNTAAEHYTMIGKSQVNRMSSL
+                     IDQLGEISGRKPPQGPAFDMPPPPPKRKHPDSLDTNPILGLIGQDWDDNKDKHWREKP
+                     ADKKLLVLNWVLHEYLGVLTKPVTIKWITDNPASLELGAVSAYALKHQASLSDCDKEA
+                     LRALVVQTVKNTPKRPCLD"
+ORIGIN      
+        1 atgttcacta ccaaggtaaa tatgtaccca gaggtgccca gctcatccca ggtgtcagac
+       61 gacatagaca atgacacgca catcgacgag gtcgctgcat ttgtgagaaa gtggtcggca
+      121 gccggactat ctccccccat cacccttgcg aagaacctca gagcatggat atcaagcaac
+      181 accagccctg gaagccccct agtgttggat gacagaatgc tgagccttac aaccatgata
+      241 tggaacacag cagcagagca ctacacaatg ataggcaaat cccaggtcaa tcgtatgtca
+      301 tcactcatag atcagctggg ggagatttcc ggccgcaaac cgccgcaggg cccagcattc
+      361 gacatgcctc ctccccctcc taagagaaaa catccggatt cactagacac taatccaata
+      421 ttaggcttaa taggtcaaga ttgggacgac aataaagaca agcactggag agagaaacca
+      481 gcagacaaga agctcctcgt gctcaactgg gtgttgcatg agtatctggg ggtcctcaca
+      541 aaacctgtca ccatcaagtg gataacggat aaccccgcgt ctttagagtt gggagcagtg
+      601 tcagcttatg ccctgaaaca tcaggccagc ttatccgact gcgacaagga agccctcaga
+      661 gcgttggtgg ttcaaacagt gaaaaacacc cccaaaaggc catgcctgga ctag
+//
+
