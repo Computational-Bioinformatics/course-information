@@ -227,7 +227,7 @@ Week # | Dates   | Topic | Reading|
 9 | 24 Oct            | Lab: See last week's lab| |
 10 | 31 Oct - 4 Nov   |  Gene Assembly [Activity 07](https://classroom.github.com/a/KHpM-Nhi)  | Chapter 8 and 9 |
 10 | 31 Oct           | Lab: [Ethics in Bioinformatics Research](https://classroom.github.com/a/VNZ2geci)| Hand out|
-11 | 7 Nov - 11 Nov  |                     |        |
+11 | 7 Nov - 11 Nov  | Protein research websites [Activity09](https://forms.gle/zqKy5C8senJGcGuC9)          |        |
 11 | 7 Nov           | Lab: | Hand out|
 12 | 14 Nov - 17 Nov |                     |        |
 12 | 14 Nov          | Lab: | Hand out|
