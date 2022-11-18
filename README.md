@@ -229,7 +229,7 @@ Week # | Dates   | Topic | Reading|
 10 | 31 Oct           | Lab: [Ethics in Bioinformatics Research](https://classroom.github.com/a/VNZ2geci)| Hand out|
 11 | 7 Nov - 11 Nov  | Protein research websites [Activity09](https://forms.gle/zqKy5C8senJGcGuC9)          |        |
 11 | 7 Nov           | Lab: | Hand out|
-12 | 14 Nov - 17 Nov |                     |        |
+12 | 14 Nov - 18 Nov | [Final project](https://classroom.github.com/a/jtphgQNG) assignment                    |        |
 12 | 14 Nov          | Lab: | Hand out|
 13 | 21 Nov - 25 Nov |                     |        |
 13 | 21 Nov          | Lab: | Hand out|
