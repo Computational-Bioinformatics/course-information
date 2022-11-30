@@ -235,3 +235,4 @@ Week # | Dates   | Topic | Reading|
 13 | 21 Nov          |  | |
 14 | 28 Nov - 2 Dec | [Activity 09](https://forms.gle/4c4i3N8G3SghFRwi9)|        |
 14 | 28 Nov          | Lab: | Hand out|
+15 | 30 Nov | [BeagleTM](https://github.com/developmentAC/beagleTM)|        |
