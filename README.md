@@ -233,6 +233,7 @@ Week # | Dates   | Topic | Reading|
 12 | 14 Nov          | Lab: | Hand out|
 13 | 21 Nov - 25 Nov | Thanksgiving                    |        |
 13 | 21 Nov          |  | |
-14 | 28 Nov - 2 Dec | [Activity 09](https://forms.gle/4c4i3N8G3SghFRwi9)|        |
+14 | 28 Nov - 2 Dec | [Activity 09](https://forms.gle/4c4i3N8G3SghFRwi9) and [Activity 10](https://classroom.github.com/a/FOeTIfct) |        |
 14 | 28 Nov          | Lab: | Hand out|
 15 | 30 Nov | [BeagleTM](https://github.com/developmentAC/beagleTM)|        |
+
