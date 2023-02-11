@@ -1,4 +1,4 @@
-# Bioinformatics (CMPSC 300) Course Syllabus
+# Computational_Bioinformatics (CMPSC 300) Course Syllabus
 
 This repository contains information about Bioinformatics, including the course objectives, policies and the schedule. Please check this repository regularly for updates to the policies and the schedule.
 
