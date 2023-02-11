@@ -5,7 +5,7 @@ This repository contains information about Bioinformatics, including the course 
 # Content
 
 - [Instructor](#instructor)
-- [Course Description](#description)
+- [Course Description](#Course-description)
 - [Course Objectives](#course-objectives)
 - [Textbooks](#textbooks)
 - [Policies](#policies)
