@@ -4,12 +4,12 @@ This repository contains information about Bioinformatics, including the course 
 
 # Content
 
-- [Instructor](#Instructor)
-- [Course Description](#Description)
-- [Course Objectives](#Course-Objections)
-- [Textbooks](#Textbooks)
-- [Policies](#Policies)
-- [Schedule](#Schedule)
+- [Instructor](#instructor)
+- [Course Description](#description)
+- [Course Objectives](#course-objectives)
+- [Textbooks](#textbooks)
+- [Policies](#policies)
+- [Schedule](#schedule)
 
 ## Instructor
 
