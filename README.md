@@ -181,37 +181,37 @@ Below is a tentative schedule of covered topics and associated activities. The s
 
 Week # | Dates   | Topic | Reading|
 ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------|
-1 | Aug. 29-Sep.2   | Introduction to the course, careers | Read the syllabus|
+1 | | Introduction to the course, careers | Read the syllabus|
 1 | | No lab| N/A|
-2 | 5 Sept - 9 Sept   | DNA Basics, Central Dogma of Biology, Replication of DNA and other basics, [Activity 01](https://forms.gle/NY4yKq3XPsiF677h8) | Chap 1|
-2 | 5 Sept            | Lab: [Software Tools](https://classroom.github.com/a/g3PeyyBY)| See GitHub repository|
-3 | 12 Sept - 16 Sept | BioPython Basics, [Activity 02](https://classroom.github.com/a/5II53q3k) | Chap 1 |
-3 | 12 Sept           | Lab: [BioPython and Silent Mutations](https://classroom.github.com/a/tqoDBUWF)| Hand out|
-4 | 19 Sept - 23 Sept | Reading Frames, Mutations, Begin Sequence Alignment, [Activity 03](https://classroom.github.com/a/aplPW0YR) | Chap 2, 3       |
-4 | 19 Sept           | Lab: [Tool Intro And Presentation](https://classroom.github.com/a/VpI9VO2f) | Hand out|
-5 | 26 Sept - 30 Sept |  Sequence Alignment, Needleman-Wunsch algorithm (Global Alignment) | Chap 3  |
-5 | 26 Sept           | Lab: No new assignment | Hand out|
-6 | 3 Oct - 7 Oct     | Biopython and Sequence Alignment, [Activity 04](https://classroom.github.com/a/SV1VA3A9)  | Chap 3, Chap 4, HandOut       |
-6 | 3 Oct            | Lab: [seq Analysis](https://classroom.github.com/a/boVZZyBA)  | Hand out|
-7 | 10 Oct - 14 Oct   | Fall Break; No Class |       |
+2 |   | DNA Basics, Central Dogma of Biology, Replication of DNA and other basics, [Activity 01](https://forms.gle/NY4yKq3XPsiF677h8) | Chap 1|
+2 | | Lab: [Software Tools](https://classroom.github.com/a/g3PeyyBY)| See GitHub repository|
+3 | | BioPython Basics, [Activity 02](https://classroom.github.com/a/5II53q3k) | Chap 1 |
+3 | | Lab: [BioPython and Silent Mutations](https://classroom.github.com/a/tqoDBUWF)| Hand out|
+4 | | Reading Frames, Mutations, Begin Sequence Alignment, [Activity 03](https://classroom.github.com/a/aplPW0YR) | Chap 2, 3       |
+4 | | Lab: [Tool Intro And Presentation](https://classroom.github.com/a/VpI9VO2f) | Hand out|
+5 | |  Sequence Alignment, Needleman-Wunsch algorithm (Global Alignment) | Chap 3  |
+5 | | Lab: No new assignment | Hand out|
+6 | | Biopython and Sequence Alignment, [Activity 04](https://classroom.github.com/a/SV1VA3A9)  | Chap 3, Chap 4, HandOut       |
+6 | | Lab: [seq Analysis](https://classroom.github.com/a/boVZZyBA)  | Hand out|
+7 | | Fall Break; No Class |       |
 7 | | No lab| N/A|
-7 | 14 Oct   | [Activity 05 BuildADatabase](https://classroom.github.com/a/pqKAOxgT) |       |
-8 | 17 Oct - 21 Oct |    Blast and protein blast                 |     Chapters 4 and 5   |
-8 | 17 Oct           | Lab: [article and tool](https://classroom.github.com/a/19_Uzv0E) | Hand out|
-9 | 24 Oct - 28 Oct | SubMatrices: Pam and BLOSUM. Test Week: [Activity 06 (video) ](https://forms.gle/z7B3FFSZDfPcC1cXA)                     |        |
-9 | 24 Oct            | Lab: See last week's lab| |
-10 | 31 Oct - 4 Nov   |  Gene Assembly [Activity 07](https://classroom.github.com/a/KHpM-Nhi)  | Chapter 8 and 9 |
-10 | 31 Oct           | Lab: [Ethics in Bioinformatics Research](https://classroom.github.com/a/VNZ2geci)| Hand out|
-11 | 7 Nov - 11 Nov  | Protein research websites [Activity 08](https://forms.gle/zqKy5C8senJGcGuC9)          |        |
-11 | 7 Nov           | Lab: | Hand out|
-12 | 14 Nov - 18 Nov | [Final project](https://classroom.github.com/a/jtphgQNG) assignment                    |        |
-12 | 14 Nov          | Lab: | Hand out|
-13 | 21 Nov - 25 Nov | Thanksgiving                    |        |
-13 | 21 Nov          |  | |
-14 | 28 Nov - 2 Dec | [Activity 09](https://forms.gle/4c4i3N8G3SghFRwi9) and [Activity 10](https://classroom.github.com/a/FOeTIfct) |        |
-14 | 28 Nov          | Lab: | Hand out|
-15 | 30 Nov | [BeagleTM](https://github.com/developmentAC/beagleTM)|        |
-16 | 5 Dec| Course Summary |        |
-16 | 7 Dec| Presentations |        |
-16 | 9 Dec| Presentations |        |
+7 | | [Activity 05 BuildADatabase](https://classroom.github.com/a/pqKAOxgT) |       |
+8 | |    Blast and protein blast                 |     Chapters 4 and 5   |
+8 | | Lab: [article and tool](https://classroom.github.com/a/19_Uzv0E) | Hand out|
+9 | | SubMatrices: Pam and BLOSUM. Test Week: [Activity 06 (video) ](https://forms.gle/z7B3FFSZDfPcC1cXA)                     |        |
+9 | | Lab: See last week's lab| |
+10 | |  Gene Assembly [Activity 07](https://classroom.github.com/a/KHpM-Nhi)  | Chapter 8 and 9 |
+10 | | Lab: [Ethics in Bioinformatics Research](https://classroom.github.com/a/VNZ2geci)| Hand out|
+11 | | Protein research websites [Activity 08](https://forms.gle/zqKy5C8senJGcGuC9)          |        |
+11 | | Lab: | Hand out|
+12 | | [Final project](https://classroom.github.com/a/jtphgQNG) assignment                    |        |
+12 | | Lab: | Hand out|
+13 | | Thanksgiving                    |        |
+13 | |  | |
+14 | | [Activity 09](https://forms.gle/4c4i3N8G3SghFRwi9) and [Activity 10](https://classroom.github.com/a/FOeTIfct) |        |
+14 | | Lab: | Hand out|
+15 | | [BeagleTM](https://github.com/developmentAC/beagleTM)|        |
+16 | | Course Summary |        |
+16 | | Presentations  |        |
+16 | | Presentations  |        |
 
