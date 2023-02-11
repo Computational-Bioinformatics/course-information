@@ -4,20 +4,11 @@ This repository contains information about Bioinformatics, including the course 
 
 # Content
 
-- [SCHEDULE](#Schedule)
 - [Instructor](#Instructor)
-
-- [Meeting Times](#Meetings)
-
-- [Discord](#Discord)
-- [Course Calendar](#Calendar)
-- [`classDocs/`](#Classdocs)
-- [Deliverable](#Deliverable)
 - [Course Description](#Description)
+- [Course Objectives](#Course-Objections)
 - [Textbooks](#Textbooks)
-- [Course Policies](#Policies)
-- [Grading](#Grading)
-- [Assistance](#Assistance)
+- [Policies](#Policies)
 - [Schedule](#Schedule)
 
 ## Instructor
@@ -36,6 +27,7 @@ Credits: 4
 An introduction to the development and application of methods, from the computational and information sciences, for the investigation of biological phenomena. In this interdisciplinary course, students integrate computational techniques with biological knowledge to develop and use analytical tools for extracting, organizing, and interpreting information from genetic sequence data. Often participating in team-based and hands-on activities, students implement and apply useful bioinformatics algorithms. During a weekly laboratory session students employ cutting-edge software tools and programming environments to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 ### Distributions
+
 This course satisfied the following learning requirements.
 
 #### Quantitative Reasoning (QR)
@@ -46,20 +38,18 @@ We primarily checked to see whether the interpretation of “numerical, symbolic
 
 We felt that it was not sufficient for a course simply to include scientific findings as part of the information – rather, the course should address the “nature, approaches, and domain of scientific inquiry.” In other words, students should gain some understanding of what science is and/or how it functions.
 
-### Course Objectives
+## Course Objectives
 
  + Students successfully completing this class will have developed:
  + A "big-picture" view of bioinformatics.
  + An understanding of the objectives and limitations of bioinformatics.
  + An understanding of the biological foundations of bioinformatics (genes and genomes, gene expression, etc.).
-
  + An understanding of the computational foundations of bioinformatics (programming, databases, etc.).
-
  + An understanding of how genetic information is obtained and processed.
-
  + The ability to use basic bioinformatics software tools to study genetic information.
-
- + Throughout the semester students also will enhance their ability to write and present ideas about bioinformatics in a clear and compelling fashion. Students will gain practical experience in the design, implementation, and analysis of bioinformatics research during laboratory sessions and a final project. Finally, students will develop a richer understanding of the fascinating connections between biological systems, analysis and automation.
+ + Throughout the semester students also will enhance their ability to write and present ideas about bioinformatics in a clear and compelling fashion.
+ + Students will gain practical experience in the design, implementation, and analysis of bioinformatics research during laboratory sessions and a final project. 
+ + Finally, students will develop a richer understanding of the fascinating connections between biological systems, analysis and automation.
 
 ## Textbooks
 
@@ -175,7 +165,7 @@ Types of computer hardware and software are everywhere! Conducting research in c
 
 
 
-### Schedule
+## Schedule
 
 Below is a tentative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
 
