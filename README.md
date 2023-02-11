@@ -6,7 +6,9 @@ This repository contains information about Bioinformatics, including the course 
 
 - [SCHEDULE](#Schedule)
 - [Instructor](#Instructor)
+
 - [Meeting Times](#Meetings)
+
 - [Discord](#Discord)
 - [Course Calendar](#Calendar)
 - [`classDocs/`](#Classdocs)
@@ -28,45 +30,21 @@ Email: obonhamcarter@allegheny.edu
 
 [Office Hours](https://www.oliverbonhamcarter.com/contactandabout/)
 
-
-## Meeting Times
-
-Session | Day      | Time              | Location
-------- | -------- | ----------------- | ---------
-Class   | Monday  | 10:00am - 10:50am | Alden 109
-Class   | Wednesday  | 10:00am - 10:50am | Alden 109
-Class   | Friday  | 10:00am - 10:50am | Alden 109
-Lab     | Monday  | 2:30pm - 4:20pm   | Alden 109
-
-
-
-### Discord
-
-If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#bioinformatics`. If not, then you will need to join the department's [Discord server](https://discord.gg/kejsp3QB) before you can be added to the course's channel.
-
-
-## Calendar
-[Class calendar](https://calendar.google.com/calendar/u/0?cid=Y19jdHRuYjFkOXJhZjNhNGdlam90NXFzNGVpMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_cttnb1d9raf3a4gejot5qs4ei0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-## `classDocs/`
-All materials given out in class will be accessible using the `classDocs/` repository. Note: The HTTP link works in absence of SSH keys.
-Main site on GitHub: [ClassDocs/](https://github.com/CMPSC-300-Allegheny-College-Fall-2022/classDocs)
-
-## Course Deliverable
- + Due: 19th December 2022, 9:00am
- + Course code for final exam: G
-
-
 ## Course Description
 Credits: 4
 
 An introduction to the development and application of methods, from the computational and information sciences, for the investigation of biological phenomena. In this interdisciplinary course, students integrate computational techniques with biological knowledge to develop and use analytical tools for extracting, organizing, and interpreting information from genetic sequence data. Often participating in team-based and hands-on activities, students implement and apply useful bioinformatics algorithms. During a weekly laboratory session students employ cutting-edge software tools and programming environments to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
-Prerequisite: BIO 221 and FSBIO 201, or CMPSC
+### Distributions
+This course satisfied the following learning requirements.
 
-Distribution Requirements: QR and SP
+#### Quantitative Reasoning (QR)
+
+We primarily checked to see whether the interpretation of “numerical, symbolic, and graphical information” formed a sufficiently large enough component of the course.
+
+#### Scientific Process and Knowledge (SP)
+
+We felt that it was not sufficient for a course simply to include scientific findings as part of the information – rather, the course should address the “nature, approaches, and domain of scientific inquiry.” In other words, students should gain some understanding of what science is and/or how it functions.
 
 ### Course Objectives
 
@@ -128,7 +106,7 @@ The grade that a student receives in this class will be based on the following c
 
  + __Exams__: The exams will cover all of the material in their associated module(s). The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, all students will be expected to take these exams on the scheduled date and complete the exams in the stated period of time.
 
- + __Laboratory Assignments__: These assignments invite students to explore the concepts, tools, and techniques associated with the field of bioinformatics.  All of the laboratory assignments require the use of the provided tools to study,  design, implement, and evaluate informatics systems that solve biology problems.  To ensure that students are ready to utilize and develop appropriate software in both other classes at Allegheny College and after graduation, the instructor will assign individuals to teams for some of the laboratory assignments.  Unless specified otherwise, each laboratory assignment will be due at the beginning of the next laboratory session.  Some of the  assignments in this course will expect students to give both a short presentation and a demonstration of the bioinformatics solution that they created.
+ + __Laboratory Assignments__: These assignments invite students to explore the concepts, tools, and techniques associated with the field of bioinformatics.  All of the laboratory assignments require the use of the provided tools to study,  design, implement, and evaluate informatics systems that solve biology problems.  To ensure that students are ready to utilize and develop appropriate software in both other classes at the college level and after graduation, the instructor may assign individuals to teams for some of the laboratory assignments.  Unless specified otherwise, each laboratory assignment will be due at the beginning of the next laboratory session.  Some of the assignments in this course will expect students to give both a short presentation and a demonstration of the bioinformatics solution that they created.
 
  + __Final Project__: This project will present you with an opportunity to design and implement a correct and carefully evaluated bioinformatics solution for a specific problem. Completion of the final project will require you to apply all of the knowledge and skills that you have acquired during the course of the semester to solve a bioinformatics problem. The details for the final project will be given approximately two months before the project due date (during finals week).
 
@@ -139,6 +117,7 @@ We will be using GitHub Classroom to collect all assignments. It is expected tha
 All assignments will have a stated due date. The electronic version of the class assignments are to be turned in at the beginning of the lab session on that due date. Submissions after the beginning of class are counted as being late.  Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. All late assignments must be submitted at the beginning of the session that is scheduled one week after the due date.
 
 ### Extensions
+
 Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline. If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a __valid reason__ for your extension. This request must come before the due date of the lab and not on the due date. Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
 
 The submission of homework comprises the Honor Code pledge of the student(s) completing the work. For any assignment completed in a group, students must also turn in a one-page reflection that describes each group member's contribution to the submitted deliverables.  
@@ -156,12 +135,10 @@ If you should find yourself in difficult circumstances that significantly interf
 
 
 ### Communication
+
 Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
 
 Additionally, the course website will be used to store the syllabus, course schedule and information about the `classDocs/` repository using the GitHub.  Your grades will be communicated to you by a Gradebook GitHub repository.
-
-### Gradebook Repository
-+ [https://classroom.github.com/a/PDnOsq62](https://classroom.github.com/a/PDnOsq62)
 
 ### Bring your own computer to class
 
@@ -195,8 +172,6 @@ More information about the code may be found at the [Maytum Center for Student S
 ### Welcome to Computer Science Research!
 
 Types of computer hardware and software are everywhere! Conducting research in computer science is a challenging and rewarding activity that leads to the production of hardware, software, and scientific insights that have the potential to positively influence the lives of many people.  As you learn more about research methods in computer science you will also enhance your ability to effectively write and speak about a wide range of topics in computer science. I ask that you bring your best effort and highest enthusiasm as you pursue research in computer science this semester.
-
-
 
 
 
