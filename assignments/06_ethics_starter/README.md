@@ -1,15 +1,10 @@
 # Bioinformatics (CMPSC 300) Lab 6
 
 ## Title
+
 Ethical Topics in Bioinformatics
 
 This repository contains information about Bioinformatics lab deliverables. This assignment invites students to find an current new article or a piece of literature that discusses some ethical consideration in Bipoinformatics research.
-
-## Dates
-
-Handed out: 31 October 2022
-
-Due and presentation : __During Monday's class time__: 7th November 2022
 
 ## Contents
 

@@ -6,14 +6,6 @@ This repository contains information about Bioinformatics lab 2 deliverables. Th
 
 Central Dogma of Biology and Bioinformatics
 
-## Dates
-
-Handed out: 12 Sept 2022
-
-Due: 19 Sept 2022
-
-<!-- ### Submission notes Please submit all deliverables through your assignment GitHub repository. + Place report document writing directory -->
-
  ## Contents
 
 - [Objectives](#Objectives)

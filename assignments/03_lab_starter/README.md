@@ -6,12 +6,6 @@ This repository contains information about Bioinformatics lab 3 deliverables. Th
 
 Researching and reporting on bioinformatics research tools (II)
 
-## Dates
-
-Handed out: 19 Sept 2022
-
-Due: 26 Sept 2022
-
  ## Contents
 
 - [Objectives](#Objectives)

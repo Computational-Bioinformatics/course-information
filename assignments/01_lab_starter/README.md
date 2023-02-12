@@ -7,11 +7,6 @@ This repository contains information about Bioinformatics lab 1 deliverables.
 
 Researching and reporting on bioinformatics research tools (I)
 
-## Dates
-
-Handed out: 5 Sept 2022
-
-Due: 12 Sept 2022
 
 <!-- ### Submission notes
 

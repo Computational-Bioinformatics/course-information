@@ -1,14 +1,10 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8745836&assignment_repo_type=AssignmentRepo)
-# Bioinformatics
-(CMPSC 300) Lab 4
+# Bioinformatics (CMPSC 300) Lab 4
 
 This repository contains information about Bioinformatics lab 4 deliverables. This assignment invites students to write Python code to complete an Analysis of DNA.
 
-## Dates
+## Title
 
-Handed out: 03 Oct 2022
-
-Due: 17 Oct 2022
+What Is This Sequence?
 
  ## Contents
 
@@ -19,8 +15,6 @@ Due: 17 Oct 2022
 - [Assessment](#Assessment)
 
 --------------------------------------------------------------------------------
-
-
 
 <center>
   <img src="graphics/align_i.png" width="550" height="300">

@@ -6,12 +6,6 @@ This repository contains information about Bioinformatics lab 5 deliverables. Th
 
 Investigating Online Tools
 
-## Dates
-
-Handed out: 17 Oct 2022
-
-Due: 31 Oct 2022
-
 ## Contents
 
 - [Objectives](#Objectives)
