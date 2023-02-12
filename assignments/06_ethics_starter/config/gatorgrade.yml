@@ -1,0 +1,55 @@
+# --> check the Python program
+# - src/demoProgram.py:
+#   - description: Ensure that the demoProgram.py file exists in the src/ directory
+#     check: ConfirmFileExists
+#   - description: Complete all TODOs, remove the TODO markers in the demoProgram.py
+#     check: MatchFileFragment
+#     options:
+#       fragment: TODO
+#       count: 0
+#       exact: true
+#   - description: Create a sufficient number of docstring (i.e., multiple-line) comments in demoProgram.py
+#     check: CountMultipleLineComments
+#     options:
+#       language: "Python"
+#       count: 3
+#       exact: false
+#   - description: Create a sufficient number of single-line comments in demoProgram.py
+#     check: CountSingleLineComments
+#     options:
+#       language: "Python"
+#       count: 5
+#       exact: false
+#   - description: Delete the 'Add Your Name Here' prompt in the reflections file
+#     check: MatchFileFragment
+#     options:
+#       fragment: "Add Your Name Here"
+#       count: 0
+#       exact: true
+# --> check the technical writing for various characteristics
+- writing/reflection.md:
+  - description: Ensure that the reflection.md file exists in the writing/ directory
+    check: ConfirmFileExists
+  - description: Write a minimum number of meaningful words in the reflections
+    check: CountFileWords
+    options:
+      count: 100
+      exact: false
+  - description: Complete all TODOs, remove the TODO markers, and rewrite comments for the reflections
+    check: MatchFileFragment
+    options:
+      fragment: TODO
+      count: 0
+      exact: true
+  - description: Delete the 'Add Your Name Here' prompt in the reflections file
+    check: MatchFileFragment
+    options:
+      fragment: "Add Your Name Here"
+      count: 0
+      exact: true
+
+  # count number of commits in the GitHub repository
+- description: Have at least a specific minimum of commits in repository
+  check: CountCommits
+  options:
+    count: 3

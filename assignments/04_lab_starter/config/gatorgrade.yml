@@ -1,0 +1,37 @@
+# perform checks on a file
+- src/openAndTestFastaSeq.py:
+    - description: Ensure that the openAndTestFastaSeq.py file exists in the src/ directory
+      check: ConfirmFileExists
+    - description: Complete all TODOs, remove the TODO markers in the openAndTestFastaSeq.py
+      check: MatchFileFragment
+      options:
+        fragment: TODO
+        count: 0
+        exact: true
+
+# check the technical writing for various characteristics
+- writing/reflection.md:
+    - description: Ensure that reflection.md file exists in the writing/ directory
+      check: ConfirmFileExists
+    - description: Write a minimum number of meaningful words in the reflection
+      check: CountFileWords
+      options:
+        count: 200
+        exact: false
+    - description: Complete all TODOs, remove the TODO markers in the reflections.md
+      check: MatchFileFragment
+      options:
+        fragment: TODO
+        count: 0
+        exact: true
+    - description: Delete the 'Add Your Name Here' prompt in the reflection file
+      check: MatchFileFragment
+      options:
+        fragment: "Add Your Name Here"
+        count: 0
+        exact: true
+# count number of commits in the GitHub repository
+- description: Have at least a specific minimum number of commits (4) in repository
+  check: CountCommits
+  options:
+    count: 4

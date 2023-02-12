@@ -1,0 +1,43 @@
+# perform checks on a file
+- src/mutDetect.py:
+    - description: Ensure that the mutDetect.py file exists in the src/ directory
+      check: ConfirmFileExists
+    - description: Complete all TODOs, remove the TODO markers in the mutDetect.py
+      check: MatchFileFragment
+      options:
+        fragment: TODO
+        count: 0
+        exact: true
+
+# check the technical writing for various characteristics
+- writing/reflections.md:
+    - description: Ensure that reflections.md file exists in the writing/ directory
+      check: ConfirmFileExists
+    - description: Write a minimum number of meaningful words in the reflection
+      check: CountFileWords
+      options:
+        count: 100
+        exact: false
+    - description: Confirm that the markdown file has the correct number of headers
+      check: CountMarkdownTags
+      options:
+        tag: heading
+        count: 3
+        exact: true
+    - description: Complete all TODOs, remove the TODO markers in the reflections.md
+      check: MatchFileFragment
+      options:
+        fragment: TODO
+        count: 0
+        exact: true
+    - description: Delete the 'Add Your Name Here' prompt in the reflection file
+      check: MatchFileFragment
+      options:
+        fragment: "Add Your Name Here"
+        count: 0
+        exact: true
+# count number of commits in the GitHub repository
+- description: Have at least a specific minimum number of commits (6) in repository
+  check: CountCommits
+  options:
+    count: 6

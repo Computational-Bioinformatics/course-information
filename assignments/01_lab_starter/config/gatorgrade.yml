@@ -1,0 +1,56 @@
+# --> check the Python program
+- src/hello.py:
+  - description: Ensure that the hello.py file exists in the src/ directory
+    check: ConfirmFileExists
+  - description: Complete all TODOs, remove the TODO markers in the hello.py
+    check: MatchFileFragment
+    options:
+      fragment: TODO
+      count: 0
+      exact: true
+  - description: Create a sufficient number of docstring (i.e., multiple-line) comments in hello.py
+    check: CountMultipleLineComments
+    options:
+      language: "Python"
+      count: 3
+      exact: false
+  - description: Create a sufficient number of single-line comments in hello.py
+    check: CountSingleLineComments
+    options:
+      language: "Python"
+      count: 5
+      exact: false
+
+# --> check the technical writing for various characteristics
+- writing/reflection.md:
+  - description: Ensure that the reflection.md file exists in the writing/ directory
+    check: ConfirmFileExists
+  - description: Write a minimum number of meaningful words in the reflection
+    check: CountFileWords
+    options:
+      count: 500
+      exact: false
+  - description: Confirm that the markdown file has the correct number of headers
+    check: CountMarkdownTags
+    options:
+      tag: heading
+      count: 5
+      exact: false
+  - description: Complete all TODOs, remove the TODO markers, and rewrite comments for the reflection
+    check: MatchFileFragment
+    options:
+      fragment: TODO
+      count: 0
+      exact: true
+  - description: Delete the 'Add Your Name Here' prompt in the reflection file
+    check: MatchFileFragment
+    options:
+      fragment: "Add Your Name Here"
+      count: 0
+      exact: true
+
+  # count number of commits in the GitHub repository
+- description: Have at least a specific minimum of commits in repository
+  check: CountCommits
+  options:
+    count: 5
