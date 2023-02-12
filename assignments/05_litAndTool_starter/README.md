@@ -8,7 +8,6 @@ Investigating Online Tools
 
 ## Dates
 
-
 Handed out: 17 Oct 2022
 
 Due: 31 Oct 2022
