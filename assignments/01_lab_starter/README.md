@@ -5,7 +5,7 @@ This repository contains information about Bioinformatics lab 1 deliverables.
 
 ## Assignment Title
 
-Researching and reporting on bioinformatics research tools
+Researching and reporting on bioinformatics research tools (I)
 
 ## Dates
 

@@ -2,6 +2,10 @@
 
 This repository contains information about Bioinformatics lab 3 deliverables. This assignment invites students to find and demonstrate online tools for Bioinformatics research.
 
+## Title
+
+Researching and reporting on bioinformatics research tools (II)
+
 ## Dates
 
 Handed out: 19 Sept 2022

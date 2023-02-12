@@ -2,7 +2,12 @@
 
 This repository contains information about Bioinformatics lab 5 deliverables. This assignment invites students to find and demonstrate online tools for Bioinformatics research.
 
+## Title
+
+Investigating Online Tools
+
 ## Dates
+
 
 Handed out: 17 Oct 2022
 

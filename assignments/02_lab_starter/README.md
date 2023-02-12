@@ -2,6 +2,10 @@
 
 This repository contains information about Bioinformatics lab 2 deliverables. This assignment invites students to write Python code to complete an Analysis of DNA.
 
+## Title: 
+
+Central Dogma of Biology and Bioinformatics
+
 ## Dates
 
 Handed out: 12 Sept 2022
